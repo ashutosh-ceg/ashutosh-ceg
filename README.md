@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 
 ✔️ I am **Ashutosh Kumar Tiwari**. <br>
 ✔️ I am Software Engineer at GlobalLogic.<br>
-✔️ I have 3.5 years of experience in the Software Development using Core Java, Spring Boot, REST APIs, Microservices and MYSQL etc.<br>
+✔️ I have 3.7 years of experience in the Software Development using Core Java, Spring Boot, REST APIs, Microservices and MYSQL etc.<br>
 ✔️ I have completed Master of Computer Applications (M.C.A) from College of Engineering, Guindy, Anna University Chennai.<br>
 ✔️ I am interested in development and i also enjoy doing coding. <br>
-✔️ I am also skilled in HTML, CSS, JavaScript, JQuery, Bootstrap, Database Management and Data Structures. <br>
-
 
 <br>
 
