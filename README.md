@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- SOCAIL MEDIA HANDLES -->
 [![Linkedin Badge](https://img.shields.io/badge/-AshutoshKumarTiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutosh-ceg/)](https://www.linkedin.com/in/ashutosh-ceg/)
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/(https://medium.com/@ashutosh-ceg)](https://medium.com/(https://medium.com/@ashutosh-ceg))
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@ashutosh-ceg)](https://medium.com/@ashutosh-ceg)
 
 [![Gmail Badge](https://img.shields.io/badge/-ashutoshtiwari958@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashutoshtiwari958@gmail.com)](ashutoshtiwari958@gmail.com)
 
